@@ -55,7 +55,7 @@
 ## 📫 Contato
 
 - GitHub: [github.com/anymousdark](https://github.com/anymousdark)
-- Email: `seuemail@exemplo.com` *(substitua pelo real)*
+
 
 ---
 
